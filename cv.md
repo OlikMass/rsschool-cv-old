@@ -5,6 +5,6 @@
 ### Education
 **2010-2016** *Francisk Scorina Gomel State University (Economist)*    
 **2020-2022** *Institute for the Promotion and Retraining of Personnel (Software engineer)*     
-**From 2023** *RS-SCHOOL*    
+**From 2023** *RS-SCHOOL «JavaScript/Front-end»*    
 ### Languages
 *English A2*
